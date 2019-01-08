@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09baa159-c18b-44cb-8197-c8d67ed1765d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$indicators.coverage" NAME="indicators Coverage Results" MODIFIED="1541352419547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manual_strategy" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_marketsim.coverage" NAME="grade_marketsim Coverage Results" MODIFIED="1540327222488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marketsim" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_robot_qlearning.coverage" NAME="grade_robot_qlearning Coverage Results" MODIFIED="1543712089866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qlearning_robot" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$DTLearner.coverage" NAME="DTLearner Coverage Results" MODIFIED="1536962289563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_learners" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$test.coverage" NAME="test Coverage Results" MODIFIED="1537888023981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_learners" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$marketsim.coverage" NAME="marketsim Coverage Results" MODIFIED="1540416092050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/marketsim" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$ManualStrategy.coverage" NAME="ManualStrategy Coverage Results" MODIFIED="1543713418758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manual_strategy" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$optimization.coverage" NAME="optimization Coverage Results" MODIFIED="1536607392843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/optimize_something" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$martingale.coverage" NAME="martingale Coverage Results" MODIFIED="1535985635627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/martingale" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$testbest4.coverage" NAME="testbest4 Coverage Results" MODIFIED="1537889235981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defeat_learners" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$experiment1.coverage" NAME="experiment1 Coverage Results" MODIFIED="1543858997324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy_learner" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$testqlearner.coverage" NAME="testqlearner Coverage Results" MODIFIED="1542400981367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qlearning_robot" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$StrategyLearner.coverage" NAME="StrategyLearner Coverage Results" MODIFIED="1543779515059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy_learner" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$testlearner.coverage" NAME="testlearner Coverage Results" MODIFIED="1537887293231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_learners" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_learners.coverage" NAME="grade_learners Coverage Results" MODIFIED="1537887835232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_learners" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_strategy_learner.coverage" NAME="grade_strategy_learner Coverage Results" MODIFIED="1543858902368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy_learner" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$experiment_1.coverage" NAME="experiment_1 Coverage Results" MODIFIED="1543781469841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy_learner" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$TheoreticallyOptimalStrategy.coverage" NAME="TheoreticallyOptimalStrategy Coverage Results" MODIFIED="1541470098622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/manual_strategy" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_analysis.coverage" NAME="grade_analysis Coverage Results" MODIFIED="1536183672448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_portfolio" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$experiment2.coverage" NAME="experiment2 Coverage Results" MODIFIED="1543859235567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy_learner" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_optimization.coverage" NAME="grade_optimization Coverage Results" MODIFIED="1536954974078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/optimize_something" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1536183526759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assess_portfolio" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$grade_best4.coverage" NAME="grade_best4 Coverage Results" MODIFIED="1537889242415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/defeat_learners" />
+    <SUITE FILE_PATH="coverage/ML4T_2018Fall$experiment_2.coverage" NAME="experiment_2 Coverage Results" MODIFIED="1543804313831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strategy_learner" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1241583126">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="30" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="11" />
+          <entry key="lastfailed" value="1" />
+          <entry key="png" value="28" />
+          <entry key="py" value="128" />
+          <entry key="txt" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="10" />
+          <entry key="Image" value="28" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="128" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="1359" />
+          <entry key="py" value="32387" />
+          <entry key="txt" value="840" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="840" />
+          <entry key="Python" value="33746" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="738636380">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="52" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="300" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="300" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ML4T" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>strategy_simulator_realistic</find>
+      <find>daily_returns</find>
+      <find>orders</find>
+      <find>timeout</find>
+      <find>time</find>
+      <find>i - 1</find>
+      <find>iloc</find>
+      <find>benchmark</find>
+      <find>impact_penalty</find>
+      <find>prin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>realistic_strategy_simulator</replace>
+      <replace>df_prices</replace>
+      <replace>daily_rets</replace>
+      <replace>trades</replace>
+      <replace>date</replace>
+      <replace>ix</replace>
+      <replace>sl</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/grading</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/strategy_learner" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assess_learners/Data/DTLearner.py" />
+        <option value="$PROJECT_DIR$/assess_learners/test.py" />
+        <option value="$PROJECT_DIR$/assess_learners/testlearner.py" />
+        <option value="$PROJECT_DIR$/defeat_learners/DTLearner.py" />
+        <option value="$PROJECT_DIR$/defeat_learners/testbest4.py" />
+        <option value="$PROJECT_DIR$/manual_strategy/readme.txt" />
+        <option value="$PROJECT_DIR$/qlearning_robot/testqlearner.py" />
+        <option value="$PROJECT_DIR$/grading/grading.py" />
+        <option value="$PROJECT_DIR$/qlearning_robot/grade_robot_qlearning.py" />
+        <option value="$PROJECT_DIR$/qlearning_robot/QLearner_dyna.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/experiment_1.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/experiment_2.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/StrategyLearner.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/marketsimcode.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/experiment2.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/indicators.py" />
+        <option value="$PROJECT_DIR$/strategy_learner/ManualStrategy.py" />
+        <option value="$PROJECT_DIR$/martingale/martingale.py" />
+        <option value="$PROJECT_DIR$/assess_portfolio/analysis.py" />
+        <option value="$PROJECT_DIR$/assess_learners/BagLearner.py" />
+        <option value="$PROJECT_DIR$/assess_learners/DTLearner.py" />
+        <option value="$PROJECT_DIR$/assess_learners/InsaneLearner.py" />
+        <option value="$PROJECT_DIR$/assess_learners/LinRegLearner.py" />
+        <option value="$PROJECT_DIR$/assess_learners/RTLearner.py" />
+        <option value="$PROJECT_DIR$/defeat_learners/gen_data.py" />
+        <option value="$PROJECT_DIR$/manual_strategy/indicators.py" />
+        <option value="$PROJECT_DIR$/manual_strategy/marketsimcode.py" />
+        <option value="$PROJECT_DIR$/manual_strategy/TheoreticallyOptimalStrategy.py" />
+        <option value="$PROJECT_DIR$/manual_strategy/ManualStrategy.py" />
+        <option value="$PROJECT_DIR$/qlearning_robot/QLearner.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/indicators/__init__.py" />
+        <option value="$PROJECT_DIR$/strategy/ManualStrategy.py" />
+        <option value="$PROJECT_DIR$/learners/__init__.py" />
+        <option value="$PROJECT_DIR$/strategy/__init__.py" />
+        <option value="$PROJECT_DIR$/strategy/StrategyLearner.py" />
+        <option value="$PROJECT_DIR$/strategy/strategy_utils.py" />
+        <option value="$PROJECT_DIR$/strategy/TheoreticallyOptimalStrategy.py" />
+        <option value="$PROJECT_DIR$/indicators/indicators.py" />
+        <option value="$PROJECT_DIR$/util.py" />
+        <option value="$PROJECT_DIR$/marketsim/marketsim.py" />
+        <option value="$PROJECT_DIR$/optimize_something/optimization.py" />
+        <option value="$PROJECT_DIR$/portfolio/__init__.py" />
+        <option value="$PROJECT_DIR$/portfolio/optimization.py" />
+        <option value="$PROJECT_DIR$/indicators/indicators_utils.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ML4T" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML4T" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.grade_strategy_learner">
+    <configuration name="experiment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2018Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strategy_learner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strategy_learner/experiment1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2018Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strategy_learner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strategy_learner/experiment2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2018Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strategy_learner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strategy_learner/experiment_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2018Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strategy_learner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strategy_learner/experiment_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grade_strategy_learner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ML4T_2018Fall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/strategy_learner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strategy_learner/grade_strategy_learner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.grade_strategy_learner" />
+      <item itemvalue="Python.experiment_1" />
+      <item itemvalue="Python.experiment_2" />
+      <item itemvalue="Python.experiment2" />
+      <item itemvalue="Python.experiment1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.experiment2" />
+        <item itemvalue="Python.experiment1" />
+        <item itemvalue="Python.grade_strategy_learner" />
+        <item itemvalue="Python.experiment_2" />
+        <item itemvalue="Python.experiment_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09baa159-c18b-44cb-8197-c8d67ed1765d" name="Default Changelist" comment="" />
+      <created>1535031757279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535031757279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.28675282" />
+      <window_info id="Structure" order="1" sideWeight="0.5024155" side_tool="true" weight="0.28271407" />
+      <window_info id="Favorites" order="2" sideWeight="0.5024155" side_tool="true" weight="0.28271407" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.2780822" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" visible="true" weight="0.2780822" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3273906" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.404685" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.2780822" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.2780822" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/assess_learners" />
+      <path value="$PROJECT_DIR$/assess_portfolio" />
+      <path value="$PROJECT_DIR$/defeat_learners" />
+      <path value="$PROJECT_DIR$/manual_strategy" />
+      <path value="$PROJECT_DIR$/marketsim" />
+      <path value="$PROJECT_DIR$/martingale" />
+      <path value="$PROJECT_DIR$/optimize_something" />
+      <path value="$PROJECT_DIR$/qlearning_robot" />
+      <path value="$PROJECT_DIR$/strategy_learner" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/strategy_learner/comments.txt" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/Impact: 0.02.png" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/Impact: 0.005.png" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/Impact: 0.png" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/grade_strategy_learner.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/experiment_2.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/experiment_1.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/experiment_two.png" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/experiment_one.png" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/QLearner.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/ManualStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/experiment2.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/experiment1.py" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/martingale/martingale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assess_learners/BagLearner.py" />
+    <entry file="file://$PROJECT_DIR$/assess_learners/DTLearner.py" />
+    <entry file="file://$PROJECT_DIR$/assess_learners/InsaneLearner.py" />
+    <entry file="file://$PROJECT_DIR$/assess_learners/LinRegLearner.py" />
+    <entry file="file://$PROJECT_DIR$/assess_learners/RTLearner.py" />
+    <entry file="file://$PROJECT_DIR$/assess_learners/testlearner.py" />
+    <entry file="file://$PROJECT_DIR$/defeat_learners/gen_data.py" />
+    <entry file="file://$PROJECT_DIR$/manual_strategy/ManualStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/manual_strategy/marketsimcode.py" />
+    <entry file="file://$PROJECT_DIR$/manual_strategy/TheoreticallyOptimalStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/qlearning_robot/testqlearner.py" />
+    <entry file="file://$PROJECT_DIR$/qlearning_robot/QLearner.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/indicators.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_learner/StrategyLearner.py" />
+    <entry file="file://$PROJECT_DIR$/manual_strategy/indicators.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indicators/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy_learner/marketsimcode.py" />
+    <entry file="file://$PROJECT_DIR$/learners/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/StrategyLearner.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/ManualStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/TheoreticallyOptimalStrategy.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/strategy_utils.py" />
+    <entry file="file://$PROJECT_DIR$/strategies/TheoreticallyOptimalStrategy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Lists/sp5002008.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7081" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assess_portfolio/analysis.py" />
+    <entry file="file://$PROJECT_DIR$/optimize_something/optimization.py" />
+    <entry file="file://$PROJECT_DIR$/portfolio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marketsim/marketsim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indicators/indicators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indicators/indicators_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-721">
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
